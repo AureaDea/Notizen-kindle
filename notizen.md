@@ -2,7 +2,7 @@ To-Do
 
 
 
-04.09.    		Gartenbegehung “Fortschritt”
+04.09.    Gartenbegehung “Fortschritt”
 
 18.09.		Schulung Kassierer
 
